@@ -138,8 +138,6 @@ Make sure your `.env` file is in the root directory and contains all required AP
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Contact
 
-[Your contact information]
 
 

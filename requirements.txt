@@ -1,0 +1,18 @@
+# Core AI Agent Framework
+# Note: Install the agents package based on your specific framework
+# Common options: ai-agents, langchain-agents, or a custom package
+# If unsure, check your project documentation or install from source
+agents
+
+# Data Validation
+pydantic>=2.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Email Service
+sendgrid>=6.10.0
+
+# Interactive Python (for Jupyter/IPython support)
+ipython>=8.0.0
+
